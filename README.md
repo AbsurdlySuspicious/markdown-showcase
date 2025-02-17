@@ -310,11 +310,27 @@ Center aligned image:
 left aligned image with text<br>
 incl. multiline
 
+<p style="clear: both;">
+
 ---
 
 <img align="right" width="100" height="100" src="https://picsum.photos/100/100">
 right aligned image with text<br>
 incl. multiline
+
+<p style="clear: both;">
+
+---
+
+<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<p align="right">
+right aligned image<br>with right-aligned text<br>
+incl. multiline
+</p>
+
+<p style="clear: both;">
+
+---
 
 ## Text only
 
