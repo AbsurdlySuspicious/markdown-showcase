@@ -327,8 +327,5 @@ Right aligned:
 
 <p align="right">Right aligned paragraph<br>Multiline</p>
 
-
-
-
 ---
-
+<p align="center"><b>END</b></p>
