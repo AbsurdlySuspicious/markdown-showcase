@@ -219,7 +219,7 @@ Single-line:
 
 ## Icon quotes (Proposal)
 
-TBD
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="500px" viewBox="0 0 310 90"><path fill="#fff" d="M0 0h310v90H0z"/><g fill="#4eaedf"><path d="M8.947 5h10.19v80H8.947zm34.998 8.696a1.067 1.067 0 0 1 0 1.508l-8.522 8.522a1.067 1.067 0 0 1-1.508 0l-4.261-4.261a1.067 1.067 0 0 1 1.508-1.508l3.509 3.505 7.77-7.766a1.067 1.067 0 0 1 1.508 0z"/><text xml:space="preserve" x="41.145" y="15.364" stroke-width=".265" font-family="Roboto" font-size="14.111" font-weight="bold" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;inline-size:258.855;white-space:pre" transform="translate(10.828 7.17)"><tspan x="41.145" y="15.364"><tspan fill="#000" font-size="12.7" font-weight="normal">Some long text blah-blah: Lorem ipsum odor </tspan></tspan><tspan x="41.145" y="33.003"><tspan fill="#000" font-size="12.7" font-weight="normal">amet, consectetuer adipiscing elit. Vivamus </tspan></tspan><tspan x="41.145" y="50.642"><tspan fill="#000" font-size="12.7" font-weight="normal">ipsum odio mauris consequat odio dapibus. </tspan></tspan><tspan x="41.145" y="68.281"><tspan fill="#000" font-size="12.7" font-weight="normal">Vitae nisl ullamcorper augue nulla.</tspan></tspan></text></g></svg>
 
 # Tables
 
