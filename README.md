@@ -310,7 +310,7 @@ Center aligned image:
 left aligned image with text<br>
 incl. multiline
 
-<p style="clear: both;">
+<br clear="all">
 
 ---
 
@@ -318,7 +318,7 @@ incl. multiline
 right aligned image with text<br>
 incl. multiline
 
-<p style="clear: both;">
+<br clear="all">
 
 ---
 
@@ -328,7 +328,7 @@ right aligned image<br>with right-aligned text<br>
 incl. multiline
 </p>
 
-<p style="clear: both;">
+<br clear="all">
 
 ---
 
