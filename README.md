@@ -284,11 +284,11 @@ divider:
 
 # Images
 
-Inline-style: ![alt text qwe asd](https://avatars.githubusercontent.com/u/42009457?s=40&v=4 "Hover text blah blah blah") (has hover text)
+Inline-style: ![alt text qwe asd](https://picsum.photos/id/69/40 "Hover text blah blah blah") (has hover text)
 
 Regular image (small):
 
-![alt text 2](https://avatars.githubusercontent.com/u/42009457?s=400&u=2dcba5c146315f82f802b8b58e92a4d6b82344b3&v=4)
+![alt text 2](https://picsum.photos/id/69/400)
 
 Regular image (bigger):
 
@@ -298,15 +298,19 @@ Regular image (bigger):
 
 ## Images + text
 
+> [!NOTE]  
+> Note that page dividers are placed explicitly to clearly indicate where
+> next example starts
+
 Center aligned image:
 
 <p align="center">
-<img src="https://picsum.photos/100/100">
+<img src="https://picsum.photos/id/474/100">
 </p>
 
 ---
 
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="left" width="100" height="100" src="https://picsum.photos/id/474/100">
 left aligned image with text<br>
 incl. multiline
 
@@ -314,7 +318,7 @@ incl. multiline
 
 ---
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="right" width="100" height="100" src="https://picsum.photos/id/474/100">
 right aligned image with text<br>
 incl. multiline
 
@@ -322,7 +326,7 @@ incl. multiline
 
 ---
 
-<img align="right" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="right" width="100" height="100" src="https://picsum.photos/id/474/100">
 <p align="right">
 right aligned image<br>with right-aligned text<br>
 incl. multiline
