@@ -305,12 +305,12 @@ Regular image (bigger):
 Center aligned image:
 
 <p align="center">
-<img src="https://picsum.photos/id/474/100">
+<img src="https://picsum.photos/id/265/100">
 </p>
 
 ---
 
-<img align="left" width="100" height="100" src="https://picsum.photos/id/474/100">
+<img align="left" width="100" height="100" src="https://picsum.photos/id/265/100">
 left aligned image with text<br>
 incl. multiline
 
@@ -318,7 +318,7 @@ incl. multiline
 
 ---
 
-<img align="right" width="100" height="100" src="https://picsum.photos/id/474/100">
+<img align="right" width="100" height="100" src="https://picsum.photos/id/265/100">
 right aligned image with text<br>
 incl. multiline
 
@@ -326,7 +326,7 @@ incl. multiline
 
 ---
 
-<img align="right" width="100" height="100" src="https://picsum.photos/id/474/100">
+<img align="right" width="100" height="100" src="https://picsum.photos/id/265/100">
 <p align="right">
 right aligned image<br>with right-aligned text<br>
 incl. multiline
